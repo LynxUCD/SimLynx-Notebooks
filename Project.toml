@@ -1,7 +1,6 @@
-name = "SimLynx"
-uuid = "bf2107fb-17e1-40e8-b2c4-6bcde9eb393a"
-authors = ["doug "]
-version = "0.1.0"
+[compat]
+julia = "1.0"
+Example = "0.4.3"
 
 [deps]
 MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
